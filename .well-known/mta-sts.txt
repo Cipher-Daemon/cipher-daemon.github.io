@@ -1,4 +1,4 @@
 version: STSv1
 mode: none
 mx: smtp.google.com
-max_age: 21600
+max_age: 3600
